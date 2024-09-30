@@ -1,0 +1,3 @@
+module:checkers
+src.core
+src.ui

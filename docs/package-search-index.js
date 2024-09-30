@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"checkers","l":"src.core"},{"m":"checkers","l":"src.ui"}];updateSearchResults();
